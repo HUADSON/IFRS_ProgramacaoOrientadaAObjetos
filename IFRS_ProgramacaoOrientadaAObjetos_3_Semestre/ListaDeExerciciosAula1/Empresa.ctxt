@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Empresa
+comment0.text=\nCrie\ uma\ classe\ que\ se\ chame\ Empresa.\nCrie\ um\ vetor\ de\ 10\ funcionarios\nCrie\ um\ m\u00E9todo\ para\ adicionar\ funcionarios\nCrie\ um\ m\u00E9todo\ para\ demitir\ funcionarios\nCrie\ um\ m\u00E9todo\ que\ mostra\ o\ nome\ do\ funcion\u00E1rio\ e\ seu\ salario\n
+comment1.params=
+comment1.target=Empresa()
+comment2.params=funcionarios
+comment2.target=void\ adicionaFuncionariosNaEmpresa(Funcionario)
+comment3.params=
+comment3.target=java.lang.String\ imprimiEmpresaComFuncionarios()
+numComments=4

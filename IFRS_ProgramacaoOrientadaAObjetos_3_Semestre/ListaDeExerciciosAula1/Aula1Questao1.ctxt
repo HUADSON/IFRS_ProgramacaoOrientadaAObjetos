@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Aula1Questao1
+comment0.text=\n1.Crie\ um\ programa\ que\ imprima\ na\ tela\ os\ n\u00FAmeros\ pares\ de\ 1\ a\ 20000.\ Utilize\ o\ m\u00E9todo\ main.\n
+comment1.params=args
+comment1.target=void\ numerosParesDe1A20000(java.lang.String[])
+numComments=2

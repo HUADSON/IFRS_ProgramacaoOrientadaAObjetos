@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Funcionario
+comment0.text=\n2.Utilizando\ o\ blueJ\ crie\ uma\ classe\ funcion\u00E1rio\ que\ possua\:\nos\ atributos\:\ nome,\ valorHora\ e\ horasTrabalhadas\ncrie\ m\u00E9todos\ que\ alterem\ esses\ valores\nCrie\ um\ m\u00E9todo\ que\ calcule\ o\ valor\ do\ salario\ de\ acordo\ com\ os\ dados\ de\ cada\ funcionario\n
+comment1.params=
+comment1.target=Funcionario()
+comment2.params=
+comment2.target=void\ calculaValorSalario()
+numComments=3
